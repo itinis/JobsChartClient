@@ -1,0 +1,20 @@
+
+ #chart_div div div div svg g g circle {
+    stroke-width: 4px !important;
+    fill: none !important;
+  }
+  #chart_div div div div svg g g circle[fill="rgb(125, 203, 83)"] {
+    stroke:rgb(183, 186, 180) !important;
+  }
+  #chart_div div div div svg g g circle[fill="#0000ff"] {
+    stroke: rgb(87, 218, 213) !important;
+  }
+  h1{
+    text-align: center;
+    color: rgb(20, 20, 131);
+  }
+.char_div{
+  width: 100vw; 
+  height: 100vh;
+  margin-left: 20%;
+}
